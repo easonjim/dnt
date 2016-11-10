@@ -1,0 +1,5 @@
+D:\开发工程\自己公司的项目\dnt_3.6.711_sqlserver_src\source_files\Discuz.Web\bin\Discuz.Space.Modules.Album.dll
+D:\开发工程\自己公司的项目\dnt_3.6.711_sqlserver_src\source_files\Discuz.Web\bin\Discuz.Space.Modules.Album.pdb
+D:\开发工程\自己公司的项目\dnt_3.6.711_sqlserver_src\source_files\Discuz.Web\space\modules\builtin\album\obj\Debug\ResolveAssemblyReference.cache
+D:\开发工程\自己公司的项目\dnt_3.6.711_sqlserver_src\source_files\Discuz.Web\space\modules\builtin\album\obj\Debug\Discuz.Space.Modules.Album.dll
+D:\开发工程\自己公司的项目\dnt_3.6.711_sqlserver_src\source_files\Discuz.Web\space\modules\builtin\album\obj\Debug\Discuz.Space.Modules.Album.pdb
